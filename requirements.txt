@@ -1,0 +1,29 @@
+# Django-React-Boilerplate
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
+```
+
+```bash
+# create a virtual environment
+python -m venv venv
+source venv/bin/activate
+```
+
+```bash
+# install the required packages
+pip install -r requirements.txt
+```
+
+```bash
+# run the server
+python manage.py runserver
+```
+
+```bash
+# create a superuser
+
+python manage.py createsuperuser
+```
+
+```bash
